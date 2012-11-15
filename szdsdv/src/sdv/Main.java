@@ -11,6 +11,7 @@ public class Main {
 		System.out.println("Some more changes");
 		System.out.println("Changed in branch one");
 		System.out.println("One more line added.");
+		System.out.println("Added at new created branch1");
 	}
 
 }
